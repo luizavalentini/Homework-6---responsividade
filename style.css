@@ -1,0 +1,347 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    background-color: #111624;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 375px;
+  }
+  
+  header {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    height: 110px;
+    width: 375px;
+  }
+
+ header .logo {
+  height: 30px;
+  margin-left: 20px;
+  }
+
+  .menu {
+    width: 30px;
+    margin: 15px 50px 0px 0px;
+  
+  }
+
+  .container {
+    margin-left: 10px;
+  }
+  
+  .container h3{
+    color: #00B4EC;
+    padding-bottom: 10px;
+    padding-left: 20px;
+  }
+
+  .container h1{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 2px;
+    margin-left: 2px;
+    color: #FFF;
+  }
+
+  .container button{
+    background-color:#22A75D;
+    color: #fff;
+    border: 0;
+    border-radius: 25px;
+    height: 48px;
+    width: 147px;
+    font-size: 16px;
+    margin: 30px 0px 0px 20px;
+  }
+
+  .container p{
+    opacity: 50%;
+  }
+
+  .container-pagina2 {
+    margin-top: -110px;
+    width: 375px;
+  }
+  
+  .container-pagina2  {
+    display: flex;
+    justify-content: center;
+    width: 375px;
+  }
+
+   .container-pagina3-2 {
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: #171B29;
+    height: 580px;
+    width: 320px;
+    border-radius: 25px;
+    color: #fff;
+    
+  }
+  
+  .container-pagina3 div .crow {
+    padding: 25px;
+    background-color: 
+    #22A75D;
+    border-radius: 50%;
+    margin: 25px 0px 20px 20px;
+  }
+  
+  .container-pagina3-2 .conteudo{
+    opacity: 50%;
+    margin: 10px 0px 15px 0px;
+    
+  }
+  
+  container-pagina3-2 span, .learn-more {
+    text-decoration: underline;
+    color:#22A75D;
+  }
+  
+  .learn-more, .learn-more{
+    position: relative;
+  
+  }
+
+ .star {
+    margin: 0px 0px 0px 15px;
+    position: absolute;
+    bottom: -1.5px;
+  }
+  
+  .container-pagina4 {
+    display: flex;
+    justify-content: center;
+    margin-top: -5px;
+    width: 375px;
+  }
+  
+  .container-pagina4 div .star-icon {
+    padding: 25px;
+    background-color: 
+    #2278D4;
+    border-radius: 50%;
+    margin: 25px 0px 20px 20px;
+  }
+  
+  .container-pagina4-2{
+    background-color: #171B29;
+    height: 560px;
+    width: 320px;
+    margin-top: 20px;
+    border-radius: 25px;
+    color: #fff;
+    margin-left: 25px;
+  }
+  
+
+  .container-pagina4 .text {
+    opacity: 50%;
+    margin: 10px 0px 15px 0px;
+    position: relative;
+  }
+  
+  .container-pagina4-24 h2{
+    margin: 10px 0px 10px 20px;
+  }
+  
+  .container-pagina4-2 span, .learn-more {
+    text-decoration: underline;
+    color:#2278D4;
+  }
+
+  .conteudo-container-pagina5{
+    background-color: #fff;
+    border-radius: 0 40% 0 0;
+  }
+  .conteudo-container-pagina5 h2 {
+    padding: 60px 20px 15px 20px;
+    color: #0F1320;
+  }
+  .container-pagina5 p{
+    color: #0F1320;
+    opacity: 60%;
+    padding: 15px 40px 15px 20px;
+  }
+  .container-pagina6{
+    margin-left: 20px;
+  }
+  .container-pagina7 {
+    height: 600px;
+    border-radius: 0px 0px 0px 40%;
+  }
+  
+  .container-pagina6 img {
+    margin-top: 20px;
+  }
+  
+
+  
+  .container-pagina7 img {
+    margin: 50px 0px 0px 20px;
+  }
+  
+  .container-pagina7 h2, p {
+    padding: 20px 50px 25px 20px;
+    color: #FFF;
+    
+  }
+  
+  .container-pagina7 p {
+    opacity: 50%;
+  }
+  
+  .container-pagina7 span {
+    margin: 90px 0px 35px 20px;
+    color: #22A75D;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+  }
+  
+  .container-pagina8 {
+    height: 800px;
+    width: 370px;
+    background-color:#111624;
+    
+  }
+  
+  .date-08 {
+    font-size: 12px;
+    opacity: 80%;
+  }
+  
+  .container-pagina8 div h2 {
+    color: #fff;
+    margin: 20px 0px 0px 20px;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  .container-pagina8 img {
+   width: 375px;
+    height: 300px;
+  }
+  
+  .container-pagina8-2 {
+    margin-top: 20px;
+    height: 495px;
+    width: 340px;
+    border-radius: 25px;
+    background-color: #fff;
+    margin-left: 20px;
+  }
+  
+  .container-pagina8-2 p {
+    color: black;
+    margin-bottom: -20px;
+  }
+  
+  .small-text {
+    font-size: 12px;
+  }
+  
+  .container-pai {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+ 
+  .container-pagina9{
+    border-radius: 0px 55px 0px 0px;
+    background-color: #0F1320;
+    height: 550px;
+    width: 375px;
+    margin-top: -150px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  
+  }
+  
+  .container-pagina9 h2 {
+    color: white;
+    text-align: center;
+    padding-top: 180px;
+  } 
+  
+  .container-pagina9 div {
+    background: #171B29;
+    width: 340px;
+    height: 400px;
+    padding: 25px 0px 25px 0px;
+    margin: 15px 0px 0px 20px;
+    border-radius: 25px;
+    display: flex;
+    align-items:flex-start;
+    flex-direction: column;
+    position: relative;
+    
+  }
+  
+  .container-pagina9 span {
+    margin-top: 20px;
+    color: #ccc;
+    opacity: 30%;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 20px;
+    
+  }
+
+.color{
+  color: white;
+}
+
+  .seta {
+  position: absolute;
+  left: 145px;
+  top: 160px;
+  background-color: #0F1320;
+  padding: 20px;
+  border-radius: 50%;
+  z-index: 1;
+  }
+  
+  footer{
+    background-color: #0F1320;
+    height: 400px;
+    width: 375px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-logo {
+    margin-top: 120px;
+    width: 150px;
+    height: 150px;
+  } 
+  
+  
+  .name img {
+    position: absolute;
+    left: -25px;
+    top: -4px;
+}
+
+  .final {
+    margin-top: 40px;
+    color: #fff;
+    font-size: 14px;
+  }
+  
+  .name {
+    color: #fff;
+    font-size: 12px;
+    opacity: 50%;
+    position: relative;
+    margin-top: 15px;
+    margin-left: 2px;
+  }
+  
+ 
